@@ -1,5 +1,5 @@
 <h1> Task 1 lecture 3</h1>
-<h3> Thursday 22-5-2025 </h3>
+<h3> Thursday 19-5-2025 </h3>
 <pre>
 <h3>
 One day, three best friends — Petya 👦, Vasya 👦, and Tonya 👧 — decided to form a team 🤝 and participate in programming contests 💻.
